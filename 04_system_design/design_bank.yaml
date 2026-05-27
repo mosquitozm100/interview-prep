@@ -1,0 +1,105 @@
+designs:
+  - title: "Rate Limiter"
+    status: draft
+    priority: P0
+    target_roles:
+      - backend
+      - ai_backend
+    key_topics:
+      - token_bucket
+      - sliding_window
+      - redis
+      - distributed_consistency
+    weaknesses:
+      - "Need crisp tradeoff script."
+    source: starter_seed
+    notes: "Classic backend design and useful for tool governance limits."
+  - title: "URL Shortener"
+    status: draft
+    priority: P1
+    target_roles:
+      - backend
+    key_topics:
+      - id_generation
+      - caching
+      - storage
+    weaknesses:
+      - "Need concise capacity estimation."
+    source: starter_seed
+    notes: "Use as warm-up for backend fundamentals."
+  - title: "Notification System"
+    status: draft
+    priority: P1
+    target_roles:
+      - backend
+    key_topics:
+      - queues
+      - retries
+      - fanout
+      - delivery_semantics
+    weaknesses:
+      - "Need failure mode examples."
+    source: starter_seed
+    notes: "Maps well to async job platform discussion."
+  - title: "Realtime Messaging / WhatsApp"
+    status: draft
+    priority: P1
+    target_roles:
+      - backend
+    key_topics:
+      - websocket
+      - presence
+      - ordering
+      - storage
+    weaknesses:
+      - "Need stronger realtime tradeoffs."
+    source: starter_seed
+    notes: "Useful for realtime system focus."
+  - title: "Ticketmaster / Booking"
+    status: draft
+    priority: P1
+    target_roles:
+      - backend
+    key_topics:
+      - inventory
+      - concurrency
+      - reservations
+      - payment_flow
+    weaknesses:
+      - "Need consistency story."
+    source: starter_seed
+    notes: "Good for race conditions and capacity."
+  - title: "LLM Eval Platform"
+    status: draft
+    priority: P0
+    target_roles:
+      - ai_backend
+      - evals
+      - openai
+    key_topics:
+      - datasets
+      - metrics
+      - graders
+      - experiment_tracking
+      - human_review
+    weaknesses:
+      - "Need interview-ready end-to-end script."
+    source: starter_seed
+    notes: "Critical for OpenAI-style evals/support automation roles."
+  - title: "Agent Workflow Orchestration"
+    status: draft
+    priority: P0
+    target_roles:
+      - ai_backend
+      - agent_infra
+      - openai
+    key_topics:
+      - state_machine
+      - tool_calls
+      - retries
+      - permissions
+      - observability
+    weaknesses:
+      - "Need clear failure handling and governance sections."
+    source: starter_seed
+    notes: "Critical for agent workflow roles."

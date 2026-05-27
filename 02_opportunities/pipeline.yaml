@@ -1,0 +1,37 @@
+opportunities:
+  - id: openai_backend_swe_evals
+    name: "OpenAI Backend SWE Evals"
+    status: "draft / active_research"
+    priority: P0
+    target_role_family:
+      - backend
+      - evals
+      - support_automation
+      - ai_backend
+    linked_folder: openai
+    next_actions:
+      - "Refine role analysis."
+      - "Map DragonCrawl and agentic flow stories to eval/support automation themes."
+      - "Practice eval platform and agent orchestration system design."
+  - id: generic_backend
+    name: "Generic Backend"
+    status: ongoing
+    priority: P1
+    target_role_family:
+      - backend
+      - distributed_systems
+    linked_folder: generic_backend
+    next_actions:
+      - "Refresh classic system designs."
+      - "Practice coding P0 queue."
+  - id: ai_backend_agent_infra
+    name: "AI Backend / Agent Infra"
+    status: ongoing
+    priority: P1
+    target_role_family:
+      - ai_backend
+      - agent_infrastructure
+      - llm_platform
+    linked_folder: ai_backend
+    next_actions:
+      - "Build concise scripts for orchestration, evals, observability, and tool governance."
