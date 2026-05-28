@@ -15,8 +15,8 @@ Restart interview preparation with a lightweight, realistic plan.
 ### Design
 
 - [ ] Review Rate Limiter
-- [ ] Draft Build System / CI Platform design outline
-- [ ] Draft LLM Eval Platform design outline
+- [ ] Expand Build System / CI Platform with Bazel / Starlark, Buildkite, remote caching, and remote execution notes
+- [ ] Review Test Execution Orchestrator: affected target detection, retries, flaky test handling, and failure analysis
 
 ### Behaviour
 

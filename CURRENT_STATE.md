@@ -18,6 +18,10 @@ Prepare for backend / AI backend / evals-related software engineering interviews
 - Build systems / CI infrastructure
 - Test orchestration and developer productivity systems
 
+## Active Applications
+
+- OpenAI — Software Engineer, Build Systems / CI: submitted on 2026-05-28. Current prep focus: coding phone screen readiness, Bazel / Starlark basics, Buildkite / CI orchestration, remote caching / remote execution, test selection, flaky test debugging, CI observability, and developer productivity system design.
+
 ## Current Priority
 
 1. Recover coding speed and implementation fluency.
