@@ -1,53 +1,30 @@
-# Career Interview OS
+# Interview Prep
 
-This repository is an AI-managed interview preparation operating system for 2026 backend, AI backend, LLM evals, and agent workflow roles.
+This repo is a simple AI-managed interview preparation system.
 
-It is designed to answer three questions every day:
+It is organized around three interview areas:
 
-1. What should I study today?
-2. What are my current weak areas?
-3. If I had an interview tomorrow, what coding problems, system designs, and behavioral stories should I review?
+1. `behaviour`
+2. `coding`
+3. `design`
 
-## Why This Exists
+The repo should help answer three questions:
 
-Interview prep can easily become a pile of notes. This repo is meant to be a source of truth: indexes track status, markdown files hold understanding and scripts, and daily/weekly logs turn prep into a repeatable loop.
+- What should I study today?
+- What are my weak areas?
+- What should I review before an interview?
 
-Current target areas:
+## How To Use
 
-- Backend SWE roles with strong system design expectations
-- AI backend and agent infrastructure roles
-- LLM eval platform and support automation roles
-- OpenAI-style backend/evals/support automation engineering roles
+1. Start with `CURRENT_STATE.md`.
+2. Pick one small task from `WEEKLY_PLAN.md`.
+3. Update the relevant tracker:
+   - Behaviour: `behaviour/story_bank.md`
+   - Coding: `coding/problem_tracker.md`
+   - Design: `design/design_tracker.md`
+4. Record progress in `DAILY_LOG.md`.
 
-## Daily Use
+## AI Management
 
-Start with [CURRENT_STATE.yaml](CURRENT_STATE.yaml), then choose one focused session:
+AI agents should keep the repo small and practical. Use existing trackers before creating new files, preserve raw notes under `archive/old_repo_notes/`, and keep active notes concise and interview-oriented.
 
-- Coding: solve or revisit one problem and update [03_coding/problem_bank.yaml](03_coding/problem_bank.yaml)
-- System design: review one design or one fundamental and update [04_system_design/design_bank.yaml](04_system_design/design_bank.yaml)
-- Behavioral: refine one story and update [06_behavioral/story_bank.yaml](06_behavioral/story_bank.yaml)
-
-Log what happened in [DAILY_LOG.md](DAILY_LOG.md). Keep notes short, honest, and useful.
-
-## Weekly Use
-
-Use [WEEKLY_PLAN.md](WEEKLY_PLAN.md) and the weekly review template to:
-
-- Review weak areas
-- Move items into or out of the revisit queue
-- Pick next week's coding, system design, and behavioral focus
-- Update active opportunities in [02_opportunities/pipeline.yaml](02_opportunities/pipeline.yaml)
-
-## How AI Agents Should Help
-
-AI agents should maintain structure, not create clutter. Always read [AGENTS.md](AGENTS.md) and [CURRENT_STATE.yaml](CURRENT_STATE.yaml) first.
-
-Good AI help includes:
-
-- Updating YAML indexes after each prep session
-- Turning raw Chinese notes into concise English interview scripts
-- Flagging weak areas and next actions
-- Keeping drafts clearly marked
-- Avoiding unsupported metrics or fake accomplishments
-
-The repo should help thinking happen naturally in Chinese while making interview answers crisp in English.

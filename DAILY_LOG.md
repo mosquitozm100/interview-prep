@@ -1,53 +1,53 @@
 # Daily Log
 
-Append-only log. Newest entries can go at the top.
+Use this file to record daily progress.
 
-## 2026-05-27
+### 2026-05-26
 
-### Focus
+#### Coding
 
-- Repo initialized for interview prep restart.
+- Problem: [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/submissions/2014217937/?envType=company&envId=waymo&favoriteSlug=waymo-six-months)
+- Result: Submitted on LeetCode.
+- Mistakes: TODO: Review submission if needed.
+- Revisit needed: Not currently in P0; revisit only if explanation was not fluent.
 
-### What I Did
+#### Design
 
-- Created initial structure, source-of-truth indexes, templates, and starter queues.
+- Topic:
+- Key takeaways:
+- Open questions:
 
-### Notes / 中文反思
+#### Behaviour
 
-- TODO: First real prep session should identify one coding problem and one system design note to revisit.
+- Story/question:
+- Notes:
 
-### Weak Areas Found
+#### Next action
 
-- TODO
+- Continue with one P0 coding revisit problem.
 
-### Next Action
+## Template
 
-- Pick one P0 coding revisit item from `03_coding/revisit_queue.md`.
+### YYYY-MM-DD
 
----
+#### Coding
 
-## Entry Template
+- Problem:
+- Result:
+- Mistakes:
+- Revisit needed:
 
-### Date
+#### Design
 
-YYYY-MM-DD
+- Topic:
+- Key takeaways:
+- Open questions:
 
-### Focus
+#### Behaviour
 
-- Coding / System Design / Behavioral / Opportunity / Review
+- Story/question:
+- Notes:
 
-### What I Did
+#### Next action
 
-- TODO
-
-### Notes / 中文反思
-
-- TODO
-
-### Weak Areas Found
-
-- TODO
-
-### Next Action
-
-- TODO
+-
