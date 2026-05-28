@@ -13,4 +13,3 @@ Use this folder for behavioural interview stories, common questions, and resume 
 ## Rule
 
 Every behavioural story should appear in `story_bank.md` before becoming a polished answer.
-

@@ -6,9 +6,11 @@ This repo is an AI-managed interview preparation system.
 
 1. Always read `CURRENT_STATE.md` before making changes.
 2. Keep the repo organized into only three main areas:
+
    - `behaviour`
    - `coding`
    - `design`
+
 3. Do not create new top-level folders unless explicitly asked.
 4. Do not delete old notes. Move or preserve old notes under `archive/old_repo_notes/`.
 5. Prefer updating existing tracker files before creating new files.
@@ -41,9 +43,11 @@ When I tell you what I studied today:
 1. Read `CURRENT_STATE.md`.
 2. Update `DAILY_LOG.md`.
 3. Update the relevant tracker:
+
    - `behaviour/story_bank.md`
    - `coding/problem_tracker.md`
    - `design/design_tracker.md`
+
 4. Update `coding/revisit_list.md` if a coding problem needs repetition.
 5. Do not create new files unless the note is substantial.
 6. Summarize exactly what changed.
@@ -71,8 +75,10 @@ Before finishing any task:
 - Confirm old notes were preserved.
 - Confirm no unnecessary top-level folders were created.
 - Make sure modified markdown files are readable in raw form:
+
   - headings are on separate lines
   - bullets are on separate lines
   - tables have one row per line
   - no major file is compressed into a single huge line
+
 - Summarize the next recommended action.

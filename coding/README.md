@@ -12,4 +12,3 @@ Use this folder for coding interview tracking and focused pattern review.
 ## Rule
 
 Every coding problem should be tracked in `problem_tracker.md`.
-

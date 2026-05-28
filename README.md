@@ -19,13 +19,17 @@ The repo should help answer three questions:
 1. Read `CURRENT_STATE.md`.
 2. Pick one task from `WEEKLY_PLAN.md`.
 3. Work in one of:
+
    - `behaviour`
    - `coding`
    - `design`
+
 4. Update the corresponding tracker:
+
    - Behaviour: `behaviour/story_bank.md`
    - Coding: `coding/problem_tracker.md`
    - Design: `design/design_tracker.md`
+
 5. Record progress in `DAILY_LOG.md`.
 
 ## Privacy / Public Repo Warning

@@ -11,4 +11,3 @@ Use this folder for system design interview preparation.
 ## Rule
 
 Every system design topic should be tracked in `design_tracker.md`.
-
