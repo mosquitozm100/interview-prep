@@ -8,20 +8,56 @@ Use this file to record daily progress.
 
 #### Application
 
-- Company / role: OpenAI — Software Engineer, Build Systems / CI
-- Status: Submitted. Waiting for response.
-- Source: LinkedIn / OpenAI Ashby application page.
-- Location: San Francisco, CA.
-- Team direction: Engineering Acceleration / Build Systems / CI / Developer Infrastructure.
-- Resume used: OpenAI Build/CI targeted resume version based on latest Uber + Amazon experience.
+- Company: OpenAI
+- Role: Software Engineer, Build Systems / CI
+- Application link: https://jobs.ashbyhq.com/openai/202eb061-23d7-4a58-80c8-bc3b41e56d39/application?utm_source=8Jq3QyqAGm&source=LinkedIn
+- Official careers link: https://openai.com/careers/software-engineer-build-systems-ci-san-francisco/
+- Source: LinkedIn / OpenAI Ashby
+- Location: San Francisco, CA
+- Status: Submitted
+- Submitted date: 2026-05-28
+- Resume used: OpenAI Build/CI targeted version
 
-#### Why This Role Is Relevant
+#### JD Snapshot
 
-- Aligns with developer infrastructure, CI/test automation, reliability tooling, and AI-assisted engineering workflows.
-- Focus appears to include build systems, CI infrastructure, Bazel / Starlark, Buildkite, test selection, flaky test isolation, CI observability, and developer productivity.
-- Potentially relevant to AI-assisted CI failure debugging and remediation.
+- Team: Engineering Acceleration
+- Role focus: build systems, CI, developer infrastructure, developer productivity, software quality, CI reliability, and fast feedback loops.
+- Product context: systems that help engineers build, test, and ship ChatGPT, the API, and OpenAI infrastructure.
 
-#### Experience Highlighted
+Public JD themes:
+
+- Evolve Bazel-based build and test workflows in a large polyglot monorepo.
+- Design and maintain Starlark rules, macros, toolchains, and integrations.
+- Improve Buildkite CI performance and reliability.
+- Optimize queue time, build time, cache hit rates, test sharding, retry behavior, and flake isolation.
+- Build systems for affected-target detection, dependency graph analysis, test selection, caching, batching, and scheduling.
+- Improve local development workflows and CI reproducibility.
+- Operate build infrastructure across Docker / OCI, Kubernetes runners, cloud resources, remote cache/execution, and artifact storage.
+- Instrument CI/build systems with metrics, logs, traces, dashboards, and analytics.
+- Use AI tools for CI failure analysis, flaky test debugging, PR triage, remediation, and developer-facing explanations.
+
+Common technologies:
+
+- Bazel / Starlark
+- Buildkite
+- Docker / OCI
+- Kubernetes
+- Python, Go, TypeScript, Rust, C++
+- Terraform
+- Remote caching / remote execution
+- Artifact storage and build telemetry
+
+#### Application Positioning
+
+Applied with a resume tailored toward:
+
+- Backend / Developer Infrastructure
+- CI/test automation
+- Reliability and failure analysis
+- LLM-driven mobile E2E infrastructure
+- Uber AI testing + Amazon backend workflow systems
+
+Public-safe experience themes emphasized:
 
 - Uber: AI-assisted mobile E2E test automation, CI-triggered test orchestration, reliability observability, and failure analysis.
 - Uber: multi-application CI test platform expansion across mobile product surfaces.
@@ -32,17 +68,22 @@ Note: Exact resume metrics and internal project details are intentionally not st
 
 #### Additional Information Submitted
 
-- Short motivation note emphasizing developer infrastructure, CI reliability, AI-assisted engineering workflows, engineering velocity, and reducing debugging toil.
+Submitted a short note emphasizing interest in:
 
-#### Next Preparation Focus
+- Developer infrastructure
+- CI reliability
+- AI-assisted engineering workflows
+- Building tools that improve engineering velocity and reduce debugging toil
 
-- Coding phone screen readiness.
-- Bazel / Starlark basics.
-- Buildkite / CI orchestration concepts.
-- Remote caching / remote execution.
-- Test selection / affected target detection.
-- Flaky test debugging / failure analysis.
-- CI observability and developer productivity system design.
+#### Follow-Up / Prep
+
+- Wait for recruiter response.
+- Prepare coding phone screen.
+- Review Bazel / Starlark basics.
+- Review Buildkite / CI orchestration.
+- Review remote caching / remote execution.
+- Review test selection / affected-target detection.
+- Review flaky test triage and CI observability.
 
 #### Privacy Note
 
