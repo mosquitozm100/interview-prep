@@ -69,4 +69,3 @@ Design a backend system that runs multi-step agent workflows with durable state,
 ## Interview Summary
 
 I would design agent orchestration around durable state, explicit step transitions, a permissioned tool gateway, and detailed traces so workflows are recoverable, auditable, and debuggable.
-

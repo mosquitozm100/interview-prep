@@ -67,4 +67,3 @@ Design a platform that can run builds and CI checks reliably for many repositori
 ## Interview Summary
 
 I would design CI as an async job platform with durable scheduling, isolated workers, artifact storage, and strong observability around queue time, failure rate, and build latency.
-

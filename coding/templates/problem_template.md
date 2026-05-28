@@ -19,4 +19,3 @@
 ## Revisit Notes
 
 ## Clean Code
-

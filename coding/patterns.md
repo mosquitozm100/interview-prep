@@ -59,4 +59,3 @@
 - When to use: nested parsing, previous/next greater element, expression evaluation.
 - Common mistakes: forgetting pending operators, wrong comparison direction.
 - Representative problems: Basic Calculator II, Daily Temperatures.
-

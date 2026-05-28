@@ -23,4 +23,3 @@ Move a problem here if:
 - I made implementation mistakes.
 - I solved it but could not explain it cleanly.
 - It belongs to a weak pattern.
-

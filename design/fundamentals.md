@@ -58,4 +58,3 @@
 
 - State the tradeoff clearly.
 - Explain why the chosen approach fits the requirements.
-

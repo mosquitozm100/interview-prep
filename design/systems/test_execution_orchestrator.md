@@ -68,4 +68,3 @@ Design a service that schedules and runs automated tests efficiently across many
 ## Interview Summary
 
 I would design the orchestrator as a scheduler for test shards, with strong result aggregation, retry policy, flaky test tracking, and metrics that help teams improve reliability and speed.
-

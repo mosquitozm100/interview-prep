@@ -69,4 +69,3 @@ Design a platform for evaluating model or agent quality across datasets, version
 ## Interview Summary
 
 I would frame the eval platform as a versioned experiment system that runs async jobs, captures traces, applies graders, and compares results over time to catch regressions.
-
