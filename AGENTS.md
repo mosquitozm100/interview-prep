@@ -70,4 +70,9 @@ Before finishing any task:
 - Validate tracker formatting if tracker files changed.
 - Confirm old notes were preserved.
 - Confirm no unnecessary top-level folders were created.
+- Make sure modified markdown files are readable in raw form:
+  - headings are on separate lines
+  - bullets are on separate lines
+  - tables have one row per line
+  - no major file is compressed into a single huge line
 - Summarize the next recommended action.

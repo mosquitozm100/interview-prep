@@ -30,4 +30,4 @@ TODO.
 
 ## Build Systems / CI-Focused Pitch
 
-TODO: connect backend systems, workflow orchestration, test automation, reliability, and developer productivity.
+TODO: Connect backend systems, workflow orchestration, test automation, reliability, and developer productivity.
