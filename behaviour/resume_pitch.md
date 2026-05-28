@@ -2,17 +2,32 @@
 
 ## 30-Second Pitch
 
-TODO: Short version for recruiter screens.
+TODO: concise recruiter version.
+
+Suggested structure:
+
+- Current role and domain
+- Previous backend/platform experience
+- Current target direction
 
 ## 1-Minute Pitch
 
-TODO: Mention backend experience, Amazon workflow/compliance work, Uber GenAI/testing work, and target direction.
+TODO: fuller version.
+
+Suggested structure:
+
+- Amazon backend / workflow automation experience
+- Uber GenAI testing / agent workflow experience
+- Why backend / AI infra / build systems direction
 
 ## Backend-Focused Pitch
 
-TODO: Emphasize backend systems, workflow automation, reliability, migrations, and operational ownership.
+TODO.
 
-## AI / Backend / Evals-Focused Pitch
+## AI / Evals / Agent-Focused Pitch
 
-TODO: Emphasize GenAI-powered testing, agent workflow systems, eval loops, observability, and safe automation.
+TODO.
 
+## Build Systems / CI-Focused Pitch
+
+TODO: connect backend systems, workflow orchestration, test automation, reliability, and developer productivity.

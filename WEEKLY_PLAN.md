@@ -1,27 +1,38 @@
 # Weekly Plan
 
-## This Week's Focus
+## This Week's Goal
 
-### Behaviour
+Restart interview preparation with a lightweight, realistic plan.
 
-- [ ] Draft or improve one Amazon story.
-- [ ] Draft or improve one Uber / AI project story.
+## P0 Tasks
 
 ### Coding
 
-- [ ] Solve or revisit 5 problems.
-- [ ] Update problem tracker after each problem.
-- [ ] Identify weak patterns.
+- [ ] Revisit LRU Cache
+- [ ] Revisit Basic Calculator II
+- [ ] Revisit Next Permutation
 
 ### Design
 
-- [ ] Review one backend fundamentals topic.
-- [ ] Draft one system design answer.
-- [ ] Add one AI/backend design topic.
+- [ ] Review Rate Limiter
+- [ ] Draft Build System / CI Platform design outline
+- [ ] Draft LLM Eval Platform design outline
 
-## Daily Checklist
+### Behaviour
 
-- [ ] 1 coding problem or 30 minutes of review
-- [ ] 15 minutes of design reading or outlining
-- [ ] 10 minutes updating notes
+- [ ] Draft 30-second pitch
+- [ ] Draft Uber DragonCrawl / AI testing story in sanitized STAR format
+- [ ] Refresh one Amazon story
 
+## Daily Minimum
+
+- [ ] 30 minutes coding or review
+- [ ] 15 minutes design outline or reading
+- [ ] 5 minutes updating notes
+
+## End-of-Week Review
+
+- [ ] Which coding patterns felt weak?
+- [ ] Which design topics are still unclear?
+- [ ] Which behavioural stories are interview-ready?
+- [ ] What should be P0 next week?

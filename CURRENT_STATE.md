@@ -13,17 +13,18 @@ Prepare for backend / AI backend / evals-related software engineering interviews
 ## Target Direction
 
 - Backend SWE
-- AI backend
-- LLM eval platform
+- AI backend / evals
 - Agent workflow infrastructure
-- General strong software engineering roles
+- Build systems / CI infrastructure
+- Test orchestration and developer productivity systems
 
 ## Current Priority
 
 1. Recover coding speed and implementation fluency.
-2. Rebuild system design structure.
-3. Refresh behavioural stories using both Amazon and Uber experience.
-4. Add AI/backend/evals-specific design and project narratives.
+2. Rebuild system design structure for backend + infra interviews.
+3. Add design prep for build systems / CI / test orchestration.
+4. Refresh behavioural stories using both Amazon and Uber experience.
+5. Keep all stories interview-safe and avoid confidential internal details.
 
 ## Current Weaknesses
 
@@ -37,3 +38,6 @@ Prepare for backend / AI backend / evals-related software engineering interviews
 - Weekdays: 30-60 minutes per day.
 - Weekends: 2-3 hours per day.
 
+## Privacy Note
+
+Because this repo may be public, do not include confidential company details, private immigration/financial details, or sensitive personal information. Use sanitized, interview-safe summaries.

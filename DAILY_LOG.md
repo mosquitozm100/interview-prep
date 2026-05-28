@@ -2,6 +2,8 @@
 
 Use this file to record daily progress.
 
+## Entries
+
 ### 2026-05-26
 
 #### Coding

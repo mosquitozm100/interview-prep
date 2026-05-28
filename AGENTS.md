@@ -34,6 +34,34 @@ This repo is an AI-managed interview preparation system.
 - Keep uncertain facts marked as `TODO`.
 - Do not invent metrics or unsupported accomplishments.
 
+## Daily Update Workflow
+
+When I tell you what I studied today:
+
+1. Read `CURRENT_STATE.md`.
+2. Update `DAILY_LOG.md`.
+3. Update the relevant tracker:
+   - `behaviour/story_bank.md`
+   - `coding/problem_tracker.md`
+   - `design/design_tracker.md`
+4. Update `coding/revisit_list.md` if a coding problem needs repetition.
+5. Do not create new files unless the note is substantial.
+6. Summarize exactly what changed.
+
+## Weekly Planning Workflow
+
+When asked to create or refresh a weekly plan:
+
+1. Review `DAILY_LOG.md`.
+2. Review all three trackers.
+3. Pick a realistic weekly plan based on available time.
+4. Prefer fewer high-value tasks over many low-value tasks.
+5. Update `WEEKLY_PLAN.md`.
+
+## Privacy Rule
+
+Assume this repo may be public. Keep notes sanitized and interview-safe.
+
 ## Completion Checklist
 
 Before finishing any task:
@@ -43,4 +71,3 @@ Before finishing any task:
 - Confirm old notes were preserved.
 - Confirm no unnecessary top-level folders were created.
 - Summarize the next recommended action.
-
